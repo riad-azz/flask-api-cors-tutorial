@@ -62,7 +62,7 @@ python app.py
 2. Access the API using a web browser or a tool like cURL or Postman:
 
 ```bash
-http://localhost:5000/api/data
+curl http://localhost:5000/api/data
 ```
 
 This endpoint returns a JSON response containing a list of random people as dummy data. 
